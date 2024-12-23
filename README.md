@@ -1,0 +1,2 @@
+PWM参数组合计算器，输入目标PWM频率和TIM频率，列出所有可能的Prescaler与Counter Period的组合。
+提示：输入20000，20000HZ，20K或20KHZ都可以被正常识别为20000HZ。
